@@ -1,5 +1,5 @@
 <h1 align="center">🌸Blossom🌸</h1>
-<p align="center">pallete</p>
+<p align="center">Palette for the theme</p>
 <p align="center"><i>What a strange thing!<br>  
 to be alive<br>  
 beneath cherry blossoms.</i></p>
